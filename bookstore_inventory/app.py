@@ -8,7 +8,7 @@ import bcrypt
 
 # App Configuration
 st.set_page_config(
-    page_title="📚 BookSphere Pro",
+    page_title="📚 BookSphere Pro by - Manas",
     page_icon="📚",
     layout="wide",
     initial_sidebar_state="expanded"
